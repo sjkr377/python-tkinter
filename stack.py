@@ -146,4 +146,4 @@ lbl.pack()
 b1.pack()
 b2.pack()
 window.mainloop()
-
+#SKR
